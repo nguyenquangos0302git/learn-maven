@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: guru.springframework.springboot.Mb2gSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.096 s - in guru.springframework.springboot.Mb2gSpringBootApplicationTests
