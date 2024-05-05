@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.anything</groupId>
   <artifactId>maven-scm</artifactId>
-  <version>1.3</version>
+  <version>1.4-SNAPSHOT</version>
   <name>Archetype - maven-scm</name>
   <url>http://maven.apache.org</url>
 
@@ -34,7 +34,7 @@
   <scm>
     <developerConnection>scm:git:https://github.com/nguyenquangos0302git/learn-maven.git</developerConnection>
     <url>https://github.com/nguyenquangos0302git/learn-maven.git</url>
-    <tag>maven-scm-1.3</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <build>
