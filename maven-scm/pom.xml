@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.anything</groupId>
   <artifactId>maven-scm</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Archetype - maven-scm</name>
   <url>http://maven.apache.org</url>
 
